@@ -1,0 +1,34 @@
+com/example/todomvvm/BuildConfig.java
+ com.example.todomvvm.BuildConfig
+com/example/todomvvm/database/Repository.java
+ com.example.todomvvm.database.Repository
+ com.example.todomvvm.database.Repository$1
+ com.example.todomvvm.database.Repository$2
+ com.example.todomvvm.database.Repository$3
+com/example/todomvvm/database/DateConverter.java
+ com.example.todomvvm.database.DateConverter
+com/example/todomvvm/database/TaskDao.java
+ com.example.todomvvm.database.TaskDao
+com/example/todomvvm/tasks/MainActivity.java
+ com.example.todomvvm.tasks.MainActivity
+ com.example.todomvvm.tasks.MainActivity$1
+ com.example.todomvvm.tasks.MainActivity$2
+ com.example.todomvvm.tasks.MainActivity$3
+com/example/todomvvm/database/AppDatabase.java
+ com.example.todomvvm.database.AppDatabase
+com/example/todomvvm/tasks/MainActivityViewModel.java
+ com.example.todomvvm.tasks.MainActivityViewModel
+com/example/todomvvm/tasks/TaskAdapter.java
+ com.example.todomvvm.tasks.TaskAdapter
+ com.example.todomvvm.tasks.TaskAdapter$ItemClickListener
+ com.example.todomvvm.tasks.TaskAdapter$TaskViewHolder
+com/example/todomvvm/database/TaskEntry.java
+ com.example.todomvvm.database.TaskEntry
+com/example/todomvvm/addedittask/AddEditTaskActivity.java
+ com.example.todomvvm.addedittask.AddEditTaskActivity
+ com.example.todomvvm.addedittask.AddEditTaskActivity$1
+ com.example.todomvvm.addedittask.AddEditTaskActivity$2
+com/example/todomvvm/addedittask/AddEditTaskViewModelFactory.java
+ com.example.todomvvm.addedittask.AddEditTaskViewModelFactory
+com/example/todomvvm/addedittask/AddEditTaskViewModel.java
+ com.example.todomvvm.addedittask.AddEditTaskViewModel
